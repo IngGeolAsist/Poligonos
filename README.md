@@ -54,8 +54,8 @@ Los polígonos nos pueden ser de gran utilidad para delimitar áreas de estudio 
 
 ![screenshot](https://raw.githubusercontent.com/sampach95/Poligonos/master/img/circulo.png )
 
-Siguiente Tutorial https://github.com/sampach95/ObjetosMultiparte
+Siguiente Tutorial https://github.com/IngGeolAsist/ObjetosMultiparte
 
 Haz click en el siguiente enlace para volver a la pagina inicial
-https://github.com/sampach95/ComoCrearMapasEnLaWebConLeaflet
+https://github.com/IngGeolAsist/ComoCrearMapasEnLaWebConLeaflet
 
